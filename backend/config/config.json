@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "axison777",
+      "password": "dragonfly",
+      "database": "ecom_connect",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
